@@ -3,7 +3,7 @@
 
 Swipe through Lovelace views on mobile.
 
-![image](example1.png)
+![image](example.png)
 
 # Features:
 * Animated swiping through Lovelace views.
