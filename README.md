@@ -3,6 +3,8 @@
 
 Swipe through Lovelace views on mobile.
 
+![image](example1.png)
+
 # Features:
 * Animated swiping through Lovelace views.
 * Configure views to skip over.
